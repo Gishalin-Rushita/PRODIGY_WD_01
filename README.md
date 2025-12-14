@@ -18,3 +18,6 @@ Created a fixed and interactive navigation menu that changes color when scrollin
 
 ### Author
 Gishalin Rushita
+
+### Link
+https://gishalin-rushita.github.io/PRODIGY_WD_01/
